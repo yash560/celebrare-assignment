@@ -3,7 +3,7 @@
 > **Frontend React Internship Technical Assessment**  
 > **Candidate:** Yash Jain ([yaashjainn@gmail.com](mailto:yaashjainn@gmail.com) • [GitHub: @yash560](https://github.com/yash560))  
 > **Company:** Celebrare (IIT Hyderabad Alumni Startup)  
-> **Live Production Demo:** [https://celebrare-gallery.vercel.app](https://celebrare-gallery.vercel.app)  
+> **Live Production Demo:** [https://celebrare-rho.vercel.app](https://celebrare-rho.vercel.app)  
 > **Repository:** [https://github.com/yash560/celebrare-assignment](https://github.com/yash560/celebrare-assignment)
 
 ---
